@@ -1,6 +1,8 @@
 THE GREAT START CANNOT BE PLANNED.
 
-Crypto, VPN, tunnel, security, Golang and Rust.
+Guadurated from TJU, China. Studied in NYU, USA.
+
+Crypto, VPN, tunnel, security, devops, Golang and Rust.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jabberwocky238&show_icons=true&theme=radical)
 
