@@ -1,9 +1,10 @@
 THE GREAT START CANNOT BE PLANNED.
 
-Guadurated from TJU, China. Studied in NYU, USA.
+BS of Artificial Intelligence in TJU, China. 
+MS of Computer Engineering in NYU, USA.
 
 Crypto, VPN, tunnel, security, devops, Golang and Rust.
 
-My Clash VPN service: [EnzymeVPN](https://app.enzyme.cloud)
-
-Hy2, Trojan and Vless supported, including HK, JP, SG, US. 1$ for 1 month.
+My VPN Product: [EnzymeCloud](https://enzyme.cloud)
+ClashCore supported socks5 proxy: [EnzymeProxy](https://enzyme.cloud/zh-CN/product/enzyme-proxy)
+Zerotrust SDN, alternative of Wireguard and Tailscale: [EnzymeConnect](https://enzyme.cloud/en/product/enzyme-connect)
