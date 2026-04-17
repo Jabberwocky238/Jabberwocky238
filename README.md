@@ -4,6 +4,8 @@ BS of Artificial Intelligence in TJU, China.
 
 MS of Computer Engineering in NYU, USA.
 
+Official Email: jabberwocky238@gmail.com
+
 Crypto, VPN, tunnel, security, devops, Golang and Rust.
 
 My VPN Product: [EnzymeCloud](https://enzyme.cloud)
