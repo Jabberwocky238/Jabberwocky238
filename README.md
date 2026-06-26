@@ -16,7 +16,7 @@ VPN, SDN, IDC, Crypto, Security, Devops, Golang and Rust.
 
 CEO & CTO of [EnzymeCloud](https://enzyme.cloud)
 
-Technical Consultant of [Soma.ai](#)
+Technical Consultant of [Soma.ai](https://somaai.world)
 
 ClashCore supported socks5 proxy: [EnzymeProxy](https://enzyme.cloud/zh-CN/product/enzyme-proxy)
 
